@@ -1,1 +1,3 @@
-# Oxya-Origin-
+# Oxya-Origin 
+
+How To Run 
